@@ -1,6 +1,6 @@
 {
   "name": "@vanillawc/wc-table",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Evan Plaice <evanplaice@gmail.com> (https://evanplaice.com/)",
   "description": "A vanilla web component to view table data",
