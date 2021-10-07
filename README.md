@@ -37,25 +37,15 @@ Try it on [WebComponents.dev](https://webcomponents.dev/edit/0I1OI38WhFGh8fgdMct
 **Attributes**
 
 - `src` - load an external CSV/JSON file
-- `no-headers` - there is no header row
 
 **Properties**
 
 - `value` - get/set the editor's contents
-- `noHeaders` - `no-headers` as a property
 
 ### Basic Usage
 
 ```html
 <wc-table src="sample.csv"></wc-table>
-```
-
-### 'no-headers' Attribute
-
-Use `no-headers` if your data doesn't contain row headers
-
-```html
-<wc-table src="sample2.csv" no-headers></wc-table>
 ```
 
 ## Styling
